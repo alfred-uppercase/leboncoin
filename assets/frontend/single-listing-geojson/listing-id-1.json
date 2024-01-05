@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.066874",
+                    "40.715842"
+                ]
+            },
+            "properties": {
+                "id": "d2a5250dbfaea911dd80e681afa8b7c1",
+                "index": 0,
+                "isActive": true,
+                "logo": "4d6f4b0b521bc978317f72ade877cba1.jpg",
+                "image": "4d6f4b0b521bc978317f72ade877cba1.jpg",
+                "link": "http://localhost/general/voiture/1",
+                "url": "",
+                "name": "Voiture",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

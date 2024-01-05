@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.016258",
+                    "40.704353"
+                ]
+            },
+            "properties": {
+                "id": "bf21966d2ebff49f04fd1f6d58ce183c",
+                "index": 0,
+                "isActive": true,
+                "logo": "a3e82a432eb8444f668d214eb0f52e24.jpg",
+                "image": "a3e82a432eb8444f668d214eb0f52e24.jpg",
+                "link": "http://localhost/restaurant/restaurant/2",
+                "url": "www.err.Fr",
+                "name": "Restaurant",
+                "category": "restaurant",
+                "email": "f203666@gmail.com",
+                "stars": "0.0",
+                "phone": "+261325300003",
+                "address": "Mareshall ferrand 12rnRue Augostino Netto",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
